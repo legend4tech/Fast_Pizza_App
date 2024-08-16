@@ -16,7 +16,9 @@ function Cart() {
 
   return (
     <div className="px-4 py-3">
-      <LinkButton to="/menu">&larr; Back to menu</LinkButton>
+      <Button to="/menu" type="small">
+        &larr; Back to menu
+      </Button>
 
       <h2 className="mt-7 text-xl font-semibold">Your cart, {username}</h2>
 
