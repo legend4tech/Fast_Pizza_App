@@ -4,7 +4,7 @@ import LinkButton from '../../ui/LinkButton';
 function EmptyCart() {
   return (
     <div className="px-4 py-3">
-      <Button to="/menu" type="primary">
+      <Button to="/menu" type="small">
         &larr; Back to menu
       </Button>
 
