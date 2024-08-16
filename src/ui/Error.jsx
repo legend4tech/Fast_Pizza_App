@@ -9,9 +9,9 @@ function Error() {
       <h1>Something went wrong 😢</h1>
       <p>{error.data || error.message}</p>
 
-      <Button to="-1" type="small">
+      <LinkButton to="-1" type="small">
         &larr; Go back
-      </Button>
+      </LinkButton>
     </div>
   );
 }
