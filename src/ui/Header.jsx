@@ -6,9 +6,9 @@ function Header() {
     <header className="flex items-center justify-between border-b border-stone-200 bg-yellow-400 px-4 py-3 uppercase sm:px-6">
       <Link
         to="/"
-        className="font-bold tracking-widest focus:outline-none sm:text-2xl"
+        className="text-xl font-bold tracking-widest focus:outline-none sm:text-2xl"
       >
-        Fast React Pizza Co.
+        Fast React Pizza
       </Link>
 
       <SearchOrder />
