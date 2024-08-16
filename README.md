@@ -21,7 +21,7 @@ This application allows users to select multiple pizzas from a menu, add them to
 To use the Pizza Ordering App, follow these steps:
 
 1. **View the App Online**: You can access the app through the following link: [Fast_Pizza_App
-   ](https://your-pizza-app-url.com).
+   ](https://legends-fast-pizza-app.vercel.app/).
 2. **Download the Source Code**: If you want to explore the source code or run the app locally, you can download it from [this repository](https://github.com/legend4tech/Fast_Pizza_App).
 3. **Installation**: After downloading the source code, navigate to the project directory and run `npm install` to install the necessary dependencies.
 4. **Run the App**: Once the dependencies are installed, run `npm run dev` to start the development server.
