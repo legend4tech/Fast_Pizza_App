@@ -5,7 +5,7 @@ import Button from './Button';
 function Error() {
   const error = useRouteError();
   return (
-    <div className="ml-2 sm:ml-0">
+    <div className="ml-3 sm:ml-0">
       <h1>Something went wrong 😢</h1>
       <p>{error.data || error.message}</p>
 
