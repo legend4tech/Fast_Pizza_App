@@ -1,6 +1,6 @@
-# Pizza Ordering App
+# Legends_Fast_Pizza_App
 
-Welcome to the Pizza Ordering App! This is a simple application where users can order pizzas from a dynamically loaded menu, built using React.
+Welcome to the Legends_Fast_Pizza_App! This is a simple application where users can order pizzas from a dynamically loaded menu, built using React.
 
 ## Description
 
@@ -20,7 +20,7 @@ This application allows users to select multiple pizzas from a menu, add them to
 
 To use the Pizza Ordering App, follow these steps:
 
-1. **View the App Online**: You can access the app through the following link: [Fast_Pizza_App
+1. **View the App Online**: You can access the app through the following link: [Legends_Fast_Pizza_App
    ](https://legends-fast-pizza-app.vercel.app/).
 2. **Download the Source Code**: If you want to explore the source code or run the app locally, you can download it from [this repository](https://github.com/legend4tech/Fast_Pizza_App).
 3. **Installation**: After downloading the source code, navigate to the project directory and run `npm install` to install the necessary dependencies.
